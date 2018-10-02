@@ -1,0 +1,7 @@
+1.get init position
+2.mark
+loop{//per 1 sec
+	3.record last postion and get new postion
+	4.mark
+	5.ployfix two marks
+}
